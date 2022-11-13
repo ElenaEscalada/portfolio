@@ -76,7 +76,7 @@ table {
 /* Basic */
 body {
   font: 400 16px/26px "Roboto", sans-serif;
-  color: #000000;
+  color: #1C355E;
   letter-spacing: .06em;
   text-align: left;
 	padding-top: 60px;
@@ -453,7 +453,7 @@ small {
   .contact-text {
 	font: 300 18px 'Roboto', sans-serif;
 	letter-spacing: 1.9px;
-	color: #000000;
+	color: #1C355E;
   }
   
   .place {
@@ -469,7 +469,7 @@ small {
   }
   
   .contact-text a {
-	color: #000000;
+	color: #1C355E;
 	text-decoration: none;
 	transition-duration: 0.2s;
   }
