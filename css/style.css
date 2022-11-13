@@ -76,7 +76,7 @@ table {
 /* Basic */
 body {
   font: 400 16px/26px "Roboto", sans-serif;
-  color: #1C355E;
+  color: #000000;
   letter-spacing: .06em;
   text-align: left;
 	padding-top: 60px;
@@ -447,13 +447,13 @@ small {
   
   .list-item {
 	line-height: 4;
-	color: #1C355E;
+	color:#db5428;
   }
   
   .contact-text {
 	font: 300 18px 'Roboto', sans-serif;
 	letter-spacing: 1.9px;
-	color: #1C355E;
+	color: #000000;
   }
   
   .place {
@@ -469,7 +469,7 @@ small {
   }
   
   .contact-text a {
-	color: #1C355E;
+	color: #000000;
 	text-decoration: none;
 	transition-duration: 0.2s;
   }
@@ -516,7 +516,7 @@ small {
 	line-height: 60px;
 	border-radius: 10%; /* 30% will be circle */
 	color: #fff;
-	background-color: #1C355E;
+	background-color: #db5428;
 	cursor: pointer; 
 	transition: all .2s ease-in-out;
   }
@@ -546,7 +546,7 @@ small {
   }
   
   .social-media-list li:hover a {
-	color: #1C355E;
+	color: #db5428;
   }
   
   
