@@ -328,6 +328,10 @@ img {
 	.tiles-box img{
 		width: 100%;
 	}
+	
+	.descr {
+		width: 100%;
+	}
 }
 @media(min-width: 768px) {
 	.mob-list-projects {
@@ -482,6 +486,7 @@ small {
   @media(min-width: 320px) {
 	.contact-list{
 		margin-left: 20px;
+		text-align: left;
 	}
 	}
   @media(min-width: 768px) {
